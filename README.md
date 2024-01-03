@@ -1,2 +1,1 @@
-# oss_img
-woooliu 的图床仓库
+- oss_img
